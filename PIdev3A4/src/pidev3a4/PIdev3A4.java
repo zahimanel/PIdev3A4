@@ -11,6 +11,7 @@ package pidev3a4;
 public class PIdev3A4 {
 
     private int id;
+    private int id;
     /**
      * @param args the command line arguments
      */
